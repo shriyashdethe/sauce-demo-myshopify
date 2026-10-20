@@ -1,0 +1,12 @@
+{
+"Browser":"edge",
+"url":"https://www.saucedemo.com/",
+"User1":"standard_user",
+"User2":"locked_out_user",
+"User3":"problem_user",
+"User4":"performance_glitch_user",
+"User5":"error_user",
+"User6":"visual_user",
+"Password":"secret_sauce",
+"WPassword":"1234"
+}
